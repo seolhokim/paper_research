@@ -7,5 +7,13 @@
     1] A Convolutional Neural Network for Modelling Sentences
     - dynamic k-max pooling를 구현해 볼 예정
 2. https://tykimos.github.io/2017/11/05/Card_Symbol_Magic/ 재밌는 프로젝트 발견
+depthwise separable convolution
 
+conv2dtranspose
+
+vae 수식 이해
+
+cam 확인
+
+그램행렬 이해하기
  
